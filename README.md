@@ -8,7 +8,8 @@
 ## Descrição do Projeto
 Esse sistema foi criado para simular como funcionaria, em sua forma básica, um sistema de doação de sangue, que pudesse armazenar dados de doadores e receptores e também ocorrências de doação de sangue de um doador para uma bolsa de sangue até o recebimento dessa bolsa pelo receptor.
 
-![Sem título](https://user-images.githubusercontent.com/74624671/207661791-ccfdd90b-c635-42d5-ab14-db49244c2085.png)
+![Sem título](https://user-images.githubusercontent.com/74624671/207663286-10bd9ee0-daa6-425d-a7e9-875b1174bffa.png)
+
 
 ## Como usar o código
 Abra o PgAdmin e crie um novo banco de dados com o nome **"DoacaoDeSangue"** e depois clique na query tool. Baixe o arquivo presente nesse repositório **"Backup - BD_DoacaoDeSangue.txt"** e copie o conteúdo desse arquivo e cole na query tool do banco de dados que você acabou de criar.
